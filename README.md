@@ -1,2 +1,2 @@
-# CoffeeShopBD_Undesigned
-a coffee-shop BD made with C# and SQL
+# CoffeeShopBD
+A coffee-shop BD, made with SQL and C#
